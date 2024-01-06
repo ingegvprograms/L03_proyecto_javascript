@@ -1,0 +1,5 @@
+- Para qué es el proyecto
+- Cómo configurarlo e instalarlo
+- Ejemplo de como usarlo o ejecutarlo
+- Indicar bajo que licencia se ofrece el proyecto
+- Como contribuir
