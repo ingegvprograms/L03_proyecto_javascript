@@ -5,3 +5,4 @@ console.log("Adios....")
 // Mas cosas
 
 console.clear()
+console.debug()
