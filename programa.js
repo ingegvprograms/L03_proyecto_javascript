@@ -3,3 +3,5 @@ console.log("Adios....")
 // Comentario Pruebas
 // Otro
 // Mas cosas
+
+console.clear()
