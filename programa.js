@@ -6,3 +6,6 @@ console.log("Adios....")
 
 console.clear()
 console.debug()
+console.debug()
+console.debug()
+console.debug()
